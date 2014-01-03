@@ -37,7 +37,7 @@
         red.enabled = YES;
         green.enabled = YES;
         blue.enabled = YES;
-    }else{ß
+    }else{
         //off
         //1.view의 backgroundColor값을 r,g,b로 변경
         //2.activate indicator start
